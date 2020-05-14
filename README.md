@@ -1,3 +1,3 @@
 # HardWay
 
-## Repositório para estrudos de Ruby.
+## Repositório para estudos de Ruby.
